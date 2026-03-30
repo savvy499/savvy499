@@ -3,7 +3,7 @@
 **Date:** 30 March 2026
 **Platform:** VirusTotal (virustotal.com)
 **Type:** Hands-On Practical
-**Source:** Skill Horizon — IP Investigation Exercise
+**Source:** Skill Horizon  IP Investigation Exercise
 
 ---
 
@@ -83,12 +83,12 @@ To investigate a suspicious IP address using VirusTotal, interpret the threat in
 
 ## 🧠 Key Takeaways
 
-- **VirusTotal is one tool** — a clean result does not automatically mean the IP is harmless in all contexts
-- **ASN data** reveals who owns and routes the IP block — useful for profiling infrastructure origin
+- **VirusTotal is one tool**:- a clean result does not automatically mean the IP is harmless in all contexts
+- **ASN data** reveals who owns and routes the IP block :- useful for profiling infrastructure origin
 - **Last seen timestamp** tells you whether an IP is still active in threat intel feeds, even if clean
-- **Context is everything** — a clean IP appearing repeatedly in logs at odd hours still warrants investigation
+- **Context is everything** :- a clean IP appearing repeatedly in logs at odd hours still warrants investigation
 - A SOC analyst always cross-references VirusTotal results with **SIEM data, network logs, and other threat intel feeds** before making a final verdict
-- **Document everything** — even clean investigations build pattern recognition over time and create an audit trail
+- **Document everything** :-  even clean investigations build pattern recognition over time and create an audit trail
 
 ---
 
