@@ -1,0 +1,7 @@
+## 21 May 2026
+ CyberOps Associate — Module: Installing Virtual Machines
+- Installed VirtualBox and imported cyberops_workstation.ova
+- Booted Linux VM, logged in as analyst/cyberops
+- Explored the CyberOps application menu and ran the IP address command
+- Learned the difference between Save State, Shutdown, and Power Off
+Key takeaway: VMs let you safely investigate malware without risking your real machine.
